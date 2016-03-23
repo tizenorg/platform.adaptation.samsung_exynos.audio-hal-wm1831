@@ -1,6 +1,6 @@
 Name:       audio-hal-wm1831
 Summary:    TIZEN Audio HAL for WM1831
-Version:    0.1.1
+Version:    0.1.2
 Release:    0
 Group:      System/Libraries
 License:    Apache-2.0
